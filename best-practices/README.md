@@ -5,7 +5,7 @@ Writing code to follow best practices is at the heart of good coding practice. W
 Code should be DRY. Just like earlier mentioned, you need to ask the question “Is there redundant or duplicate code?”. Ensure that unnecessary repetitions don’t exist within the code base.
 
 - **Object Oriented Programming**
-Follow SOLID principles for writing object oriented programs. At the very least, we should ensure that programs have high cohesion and loose coupling.
+Follow [SOLID principles](http://code.tutsplus.com/series/the-solid-principles--cms-634) for writing object oriented programs. At the very least, we should ensure that programs have high cohesion and loose coupling.
 
 - **Documenting Code**
 Code is expected to be thoroughly documented. Always use doc style comments if possible but also write code in a way that you may require little or no comments.
