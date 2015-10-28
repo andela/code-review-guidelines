@@ -50,9 +50,11 @@ For language specific style guides, see below.
 _Note: It is helpful to run your code through a linter to easily help point you to areas where code is not conforming to style guides. Better still, plugins exist for various IDEs to help with this._
 
 **Python**
+
 See [PEP-8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
 
 **JavaScript**
+
 [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript) is preferred. In addition to that, take note of the following general pointers.
 
 - Prefer ES6 classes over prototypes.
@@ -68,10 +70,13 @@ See [PEP-8 Style Guide](https://www.python.org/dev/peps/pep-0008/).
 - Avoid `var` to declare variables, use `let` where applicable.
 
 **Ruby**
+
 We should ensure that there is strict adherence to [this style guide](https://docs.google.com/document/d/1V1YFusbUsG8rBd-XcS9gc31xI45s4DMQIrheMIeRqb8/edit#heading=h.oq7iz97r9dfi).
 
 **PHP**
+
 We should ensure that there is strict adherence to the [PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2/).
 
 **Java**
+
 We should ensure that all Java Code follows the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html).
