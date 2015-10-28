@@ -7,11 +7,11 @@ Most of the information provided in this document was adopted from the [Thoughtb
 
 ## Table of Contents
 - [Behavioural Practices for Reviewers and Reviewees](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
-- [Before you start reviewing](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
-- [Initial Code Quality Checks](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
-- [Coding Style Guides](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
-- [Best Practices](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
-- [Code Performance](http://github.com/andela/code-review-guidelines/blob/master/behavioural-practices)
+- [Before you start reviewing](http://github.com/andela/code-review-guidelines/blob/master/getting-started)
+- [Initial Code Quality Checks](http://github.com/andela/code-review-guidelines/blob/master/quality-checks)
+- [Coding Style Guides](http://github.com/andela/code-review-guidelines/blob/master/coding-style-guides)
+- [Best Practices](http://github.com/andela/code-review-guidelines/blob/master/best-practices)
+- [Code Performance](http://github.com/andela/code-review-guidelines/blob/master/code-performance)
  
 ## Contributing
 Please read the [contribution guidelines](http://github.com/andela/code-review-guidelines/blob/master/CONTRIBUTING.md) before submitting a pull request.
