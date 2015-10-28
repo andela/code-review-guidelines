@@ -1,3 +1,4 @@
+![Andela Logo](https://avatars3.githubusercontent.com/u/4100206?v=3&s=100)
 # Code Review Guidelines
 The purpose of this guide is to define standards for all code reviews done by Trainers in Andela and also ensure that code written by Andela fellows are top notch and excellent. These guidelines are to be applied for checkpoint assessments as well as regular day to day code reviews performed in your role as Senior Engineer.
 
