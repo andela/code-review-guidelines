@@ -5,7 +5,7 @@ These are not to be blindly followed; strive to understand these and ask when in
 **General**
 - Don't duplicate the functionality of a built-in library (Note that this is not the case if the task at hand is purely algorithmic).
 - Don't swallow exceptions or "fail silently".
-- Don't write code that guesses at future functionality. 
+- Don't write code that guesses at future functionality.
 - Exceptions should be exceptional.
 
 **Naming**
@@ -27,7 +27,7 @@ These are not to be blindly followed; strive to understand these and ask when in
 - Don't misspell.
 - Don't vertically align tokens on consecutive lines.
 - Do not leave commented out code within production code.
-- If you break up an argument list, keep the arguments on their own lines and closing parenthesis on its own line. [Example 1](https://github.com/thoughtbot/guides/blob/master/style/ruby/sample.rb#L69), [Example 2](https://github.com/thoughtbot/guides/blob/master/style/ruby/sample.rb#L16).
+- If you break up an argument list, keep the arguments on their own lines and closing parenthesis on its own line. [Example 1](https://github.com/andela/code-review-guidelines/tree/master/style/ruby/sample.rb#L2), [Example 2](https://github.com/andela/code-review-guidelines/tree/master/style/ruby/sample.rb#L10).
 - If you break up a hash/dictionary/associative array, keep the elements on their own lines and closing curly brace on its own line.
 - Indent continued lines two spaces.
 - Indent private methods equal to public methods.
