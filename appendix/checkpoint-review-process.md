@@ -14,7 +14,7 @@ This is the recommended Git *workflow* to enable easy review:
     * Description: **write a summary of what you’ve done and your approach.**
   - This will make it easy for the reviewer to comment through your code at one glance as opposed to moving in between your commits. See sample below:
 
-![alt tag](https://drive.google.com/file/d/0B3aEqMmIUC1TZVJWTDNvTDNlc1k/view?usp=sharing)
+![Github](https://raw.githubusercontent.com/andela-mkwamboka/code-review-guidelines/master/appendix/gitworkflow.png)
 
 
 #### Integrations
@@ -35,7 +35,7 @@ The following 3 integrations **must** be on your repository:
     * [HoundCI](https://houndci.com/) (JavaScript, Swift)
   - Then include the badges for your integration on the README, e.g.
   
-![alt tag](https://drive.google.com/file/d/0B3aEqMmIUC1TV0owWVpWUndpZEU/view?usp=sharing)
+![Intergrations](https://raw.githubusercontent.com/andela-mkwamboka/code-review-guidelines/master/appendix/integrations.png)
 
 #### Functionality checks
 
