@@ -35,7 +35,7 @@ The following 3 integrations **must** be on your repository:
     * [HoundCI](https://houndci.com/) (JavaScript, Swift)
   - Then include the badges for your integration on the README, e.g.
   
-![Intergrations](https://raw.githubusercontent.com/andela-mkwamboka/code-review-guidelines/master/appendix/integrations.png)
+![Integrations](https://raw.githubusercontent.com/andela-mkwamboka/code-review-guidelines/master/appendix/integrations.png)
 
 #### Functionality checks
 
